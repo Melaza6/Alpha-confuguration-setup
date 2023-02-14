@@ -33,4 +33,12 @@
 - Branching protects your code fro errors that can cause your app to be down in production
 - Branching allows multiple pleople to work on code at the same time 
 - Branching is a best practice for all developers on all projects
-- 
+- The main brian is the sourch of truth and should only ever have working code
+
+### Branching Vocabulary
+
+- branch - an alternative timeline where a developer can code safely 
+- main - the branch that is the source of truth, only working code allowed
+- checkout - command to navigate between branches
+- checkout -b - creates a new branch that doesn't currently exist
+- deleting a branch - has to be deleted on local and on GitHub
